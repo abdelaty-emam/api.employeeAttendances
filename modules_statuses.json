@@ -1,0 +1,13 @@
+{
+    "Employees": true,
+    "Shifts": true,
+    "Attendance": true,
+    "Permissions": true,
+    "Leaves": true,
+    "Migration": true,
+    "CreateEmployeesTable": true,
+    "Auth": true,
+    "WorkLocations": true,
+    "Imagables": true,
+    "Common": true
+}

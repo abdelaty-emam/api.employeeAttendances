@@ -1,0 +1,11 @@
+{
+    "name": "WorkLocations",
+    "alias": "worklocations",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WorkLocations\\App\\Providers\\WorkLocationsServiceProvider"
+    ],
+    "files": []
+}
